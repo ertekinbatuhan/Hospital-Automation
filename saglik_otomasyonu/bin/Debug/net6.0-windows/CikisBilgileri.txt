@@ -1,0 +1,12 @@
+Çıkış Saati: 5.01.2024 17:51:11
+Çıkış Saati: 5.01.2024 17:53:50
+Çıkış Saati: 5.01.2024 18:16:53
+Çıkış Saati: 6.01.2024 18:53:17
+Çıkış Saati: 6.01.2024 18:55:03
+Çıkış Saati: 7.01.2024 17:21:33
+Poliklinik: Poliklinik 1
+Sıra No: 32
+Yapılan İşlem: Aşı
+Dr. Kodu: 1068
+Miktar: 3
+Birim Fiyat: 43

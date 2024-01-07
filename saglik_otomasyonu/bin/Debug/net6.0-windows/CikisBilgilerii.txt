@@ -1,0 +1,7 @@
+Çıkış Saati: 7.01.2024 17:23:24
+Poliklinik: Poliklinik 1
+Sıra No: 23
+Yapılan İşlem: Genel Tarama
+Dr. Kodu: 3450
+Miktar: 10
+Birim Fiyat: 40
